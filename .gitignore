@@ -1,3 +1,5 @@
 .DS_Store
 apks/
 libs/
+.idea/
+out/
