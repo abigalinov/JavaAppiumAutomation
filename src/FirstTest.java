@@ -95,7 +95,7 @@ public class FirstTest {
         );
     }
 
-    @Test //непонятно откуда взявшийся тест
+    @Test
     public void testCompareArticleTitle() {
         waitForElementAndClick(
                 By.xpath("//*[contains(@text, 'Search Wikipedia')]"),
